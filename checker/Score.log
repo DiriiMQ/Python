@@ -1,0 +1,35 @@
+Target: arrm 
+Directory: c:\Users\tienp\Desktop\Hoc\Python\checker
+Test00: 0.702027s
+Accept
+Test01: 1.183100s
+Accept
+Test02: 0.656071s
+Accept
+Test03: 0.620298s
+Accept
+Test04: 1.512400s
+Accept
+Test05: 0.995003s
+Accept
+Test06: 1.174267s
+Accept
+Test07: 1.810445s
+Accept
+Test08: 1.736331s
+Accept
+Test09: 1.998051s
+Accept
+Test10: 1.614029s
+Accept
+Test11: 1.862165s
+Accept
+Test12: 1.811676s
+Accept
+Test13: 1.800241s
+Accept
+Test14: 1.456495s
+Accept
+Test15: 0.810467s
+Accept
+AC: 16/16
